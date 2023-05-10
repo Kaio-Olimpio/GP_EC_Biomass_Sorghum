@@ -1,3 +1,3 @@
-# Hybrid prediction of biomass sorghum using climatic data via combining ability models in tropical environments
+# Prediction of biomass sorghum hybrids using environmental covariates-enriched genomic combining ability models in tropical environments
 
 ## The following files contains: 
