@@ -1,6 +1,6 @@
 # Prediction of biomass sorghum hybrids using environmental covariate-enriched genomic combining ability models in tropical environments
 
-This repository contains the data and scripts necessary to reproduce our analyses. Currently, the referred paper is being reviewed.
+This repository contains the data and scripts necessary to reproduce our analyses.
 
 ## The following files contains: 
 
